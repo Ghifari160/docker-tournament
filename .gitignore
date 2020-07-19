@@ -1,0 +1,8 @@
+# OS Database
+## Windows
+Thumbs.db
+## macOS
+.DS_Store
+
+# Project
+data/
