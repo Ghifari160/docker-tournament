@@ -1,6 +1,6 @@
 # Tournament
 
-[Tournament](https://github.com/ghifari1160/tournament) is a simple tournament management app. This
+[Tournament](https://github.com/ghifari160/tournament) is a simple tournament management app. This
 [Docker](https://docker.com) image is custom built for use by GHIFARI160.
 
 ## Installation
